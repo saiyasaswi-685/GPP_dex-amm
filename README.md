@@ -130,8 +130,8 @@ amountB = (liquidityBurned × reserveB) / totalLiquidity
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Swetha-svvv/dex-amm.git
-cd dex-amm
+https://github.com/saiyasaswi-685/GPP_dex-amm
+cd GPP_dex-amm
 ````
 
 2. Start Docker environment:
